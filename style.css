@@ -1,0 +1,19 @@
+* {
+  background: rgb(14, 8, 39);
+}
+
+div#container {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+div#mouse {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(123, 1, 246, 0.608);
+  border-radius: 50%;
+}
